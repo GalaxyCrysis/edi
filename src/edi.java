@@ -12,6 +12,7 @@ import javax.swing.event.ChangeListener;
 
 public class edi extends Application{
     //fx start method for starting the app
+    //
     GridPane chat;
     ColumnConstraints c1;
     Label chatMessage;
